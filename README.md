@@ -5,6 +5,16 @@
 ## 설치
 
 ```
-npm install scss
+npm install sass
 npm install gsap
 ```
+
+## 페이지 실행
+
+```
+npm run dev
+```
+
+## 태그
+
+리액트의 `rafce` 대신 vue에서 `template` 만든다.
