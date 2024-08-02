@@ -220,21 +220,17 @@ export const footerText = [
     },
     {
         title: 'gsap',
-        desc: 'GSAP를 활용한 포트폴리오 사이트입니다.',
         desc: 'GSAP를 활용해 만든 포트폴리오 사이트입니다.',
         link: 'https://sunhew.github.io/port/'
     },
     {
         title: 'react',
-        desc: '리액트로 만든 뮤직 플레이 사이트입니다.',
         desc: '리액트와 API를 활용해 만든 뮤직 플레이 사이트입니다.',
         link: 'https://youtubmusic.vercel.app/'
     },
     {
         title: 'vue',
         desc: 'Pyhon을 활용한 커피 메뉴 사이트입니다.',
-
-        desc: '뷰로 만든 사이트를 같이 만들어 봅니다.',
         link: 'https://vue-port-theta.vercel.app/'
     },
     {
