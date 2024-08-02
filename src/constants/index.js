@@ -38,32 +38,32 @@ export const skillText = [
 
 export const siteText = [
     {
-        text: ['make', 'site compliant with', 'webstandard'],
-        title: '비트를 이용한 사이트 제작',
-        code: 'https://github.com/webstoryboy/port2023-vite',
-        view: 'https://port2023-vite.netlify.app',
-        info: ['site coding', 'production period : two days', 'use stack : HTML5/CSS3, CSS Variable, Vite']
+        text: ['make', 'site compliant with', 'react'],
+        title: '리액트와 API를 활용한 사이트 제작',
+        code: 'https://github.com/sunhew/youtubmusic',
+        view: 'https://youtubmusic.vercel.app/',
+        info: ['site coding', 'production period : two days', 'use stack : React/SCSS, API, JSON']
     },
     {
-        text: ['make', 'site compliant with', 'react.js'],
-        title: '리액트를 이용한 사이트 제작',
-        code: 'https://github.com/webstoryboy/port2023-react',
-        view: 'https://port2023-react.netlify.app',
-        info: ['site coding', 'production period : two days', 'use stack : HTML5/CSS3, CSS Variable, Vite']
+        text: ['make', 'site compliant with', 'react'],
+        title: '리액트와 PYHON을 활용한 사이트 제작',
+        code: 'https://github.com/sunhew/coffeemenu',
+        view: 'https://coffeemenu-eight.vercel.app/',
+        info: ['site coding', 'production period : two days', 'use stack : React/SCSS, Pyhon, JSON']
     },
     {
         text: ['make', 'site compliant with', 'vue.js'],
-        title: '뷰를 이용한 사이트 제작',
-        code: 'https://github.com/webstoryboy/port2023-vue',
-        view: 'https://port2023-vue.netlify.app',
+        title: '뷰를 활용한 사이트 제작',
+        code: 'https://github.com/sunhew/vue-port',
+        view: 'https://vue-port-theta.vercel.app/',
         info: ['site coding', 'production period : two days', 'use stack : HTML5/CSS3, Scss Variable, vue']
     },
     {
-        text: ['make', 'site compliant with', 'next.js'],
-        title: '넥스트를 이용한 사이트 제작',
-        code: 'https://github.com/webstoryboy/port2023-next',
-        view: 'https://port2023-next.netlify.app',
-        info: ['site coding', 'production period : two days', 'use stack : HTML5/CSS3, Scss Variable, next.js']
+        text: ['make', 'site compliant with', 'GSAP'],
+        title: 'GSAP를 활용한 포트폴리오 사이트 제작',
+        code: 'https://github.com/sunhew/port',
+        view: 'https://sunhew.github.io/port/',
+        info: ['site coding', 'production period : two days', 'use stack : HTML5/CSS3, GSAP']
     }
 ]
 
@@ -184,38 +184,28 @@ export const contactText = [
 
 export const footerText = [
     {
-        title: 'youtube',
-        desc: '유튜브에 오시면 더 많은 강의를 볼 수 있습니다.',
-        link: 'https://www.youtube.com/@Webstoryboy'
-    },
-    {
         title: 'github',
         desc: '깃헙에 오시면 더 많은 소스를 볼 수 있습니다.',
-        link: 'https://github.com/webstoryboy'
+        link: 'https://github.com/sunhew'
     },
     {
         title: 'blog',
         desc: '블러그에 오시면 더 많은 정보를 볼 수 있습니다.',
-        link: 'https://webstoryboy.co.kr'
+        link: 'https://sunhew.github.io/'
     },
     {
         title: 'gsap',
-        desc: 'GSAP에 오시면 더 많은 강의를 볼 수 있습니다.',
-        link: 'https://www.youtube.com/playlist?list=PL4UVBBIc6giL8-6jvrClimg0cFL-Muqiq'
+        desc: 'GSAP를 활용한 포트폴리오 사이트입니다.',
+        link: 'https://sunhew.github.io/port/'
     },
     {
         title: 'react',
-        desc: '리액트로 만든 사이트를 같이 만들어 봅니다.',
-        link: 'https://github.com/webstoryboy/port2023-react'
+        desc: '리액트로 만든 뮤직 플레이 사이트입니다.',
+        link: 'https://youtubmusic.vercel.app/'
     },
     {
         title: 'vue',
-        desc: '뷰로 만든 사이트를 같이 만들어 봅니다.',
-        link: 'https://github.com/webstoryboy/port2023-vue'
-    },
-    {
-        title: 'next',
-        desc: '넥스트로 만든 사이트를 같이 만들어 봅니다.',
-        link: 'https://github.com/webstoryboy/port2023-next'
+        desc: 'Pyhon을 활용한 커피 메뉴 사이트입니다.',
+        link: 'https://coffeemenu-eight.vercel.app/'
     }
 ]

@@ -6,8 +6,8 @@ import { footerText } from '@/constants/index'
     <footer id="footer" role="contentinfo">
         <div class="footer__inner">
             <div class="footer__text">
-                <span>webstoryboy</span>
-                <span>© webs</span>
+                <span>Roha</span>
+                <span>© Roha</span>
             </div>
             <div class="footer__info">
                 <div class="left">
@@ -27,7 +27,7 @@ import { footerText } from '@/constants/index'
                 </div>
             </div>
             <div class="footer__right">
-                © 2023 webstoryboy<br />
+                © 2023 Roha<br />
                 이 사이트는 뷰를 이용하여 제작하였습니다.
             </div>
         </div>

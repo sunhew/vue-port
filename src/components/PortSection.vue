@@ -5,7 +5,7 @@ import { portText } from '@/constants/index'
 <template>
     <section id="port">
         <div class="port__inner">
-            <div class="port__title">portfolio <em>포폴 작업물</em></div>
+            <div class="port__title">portfolio <em>레퍼런스 사이트</em></div>
             <div class="port__wrap">
                 <div class="port__item" v-for="(port, key) in portText" :key="key">
                     <span class="num">{{ port.num }}.</span>
