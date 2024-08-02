@@ -64,6 +64,27 @@ export const siteText = [
         code: 'https://github.com/sunhew/port',
         view: 'https://sunhew.github.io/port/',
         info: ['site coding', 'production period : two days', 'use stack : HTML5/CSS3, GSAP']
+    },
+    {
+        text: ['make', 'site compliant with', 'Roha'],
+        title: '리액트와 API를 활용한 사이트 제작',
+        code: 'https://github.com/sunhew/youtubmusic',
+        view: 'https://youtubmusic.vercel.app/',
+        info: ['site coding', 'production period : two days', 'use stack : HTML5/SCSS, React, API']
+    },
+    {
+        text: ['make', 'site compliant with', 'react.js'],
+        title: '리액트를 이용한 사이트 제작',
+        code: 'https://github.com/sunhew/coffeemenu',
+        view: 'https://coffeemenu-eight.vercel.app/',
+        info: ['site coding', 'production period : two days', 'use stack : HTML5/CSS3, CSS Variable, Vite']
+    },
+    {
+        text: ['make', 'site compliant with', 'vue.js'],
+        title: '뷰를 이용한 사이트 제작',
+        code: 'https://github.com/sunhew/vue-port',
+        view: 'https://vue-port-theta.vercel.app/',
+        info: ['site coding', 'production period : two days', 'use stack : HTML5/CSS3, Scss Variable, vue']
     }
 ]
 
@@ -184,6 +205,10 @@ export const contactText = [
 
 export const footerText = [
     {
+        title: 'youtube',
+        desc: '유튜브 사이트는 운영하지않고 있습니다.'
+    },
+    {
         title: 'github',
         desc: '깃헙에 오시면 더 많은 소스를 볼 수 있습니다.',
         link: 'https://github.com/sunhew'
@@ -196,16 +221,25 @@ export const footerText = [
     {
         title: 'gsap',
         desc: 'GSAP를 활용한 포트폴리오 사이트입니다.',
+        desc: 'GSAP를 활용해 만든 포트폴리오 사이트입니다.',
         link: 'https://sunhew.github.io/port/'
     },
     {
         title: 'react',
         desc: '리액트로 만든 뮤직 플레이 사이트입니다.',
+        desc: '리액트와 API를 활용해 만든 뮤직 플레이 사이트입니다.',
         link: 'https://youtubmusic.vercel.app/'
     },
     {
         title: 'vue',
         desc: 'Pyhon을 활용한 커피 메뉴 사이트입니다.',
+
+        desc: '뷰로 만든 사이트를 같이 만들어 봅니다.',
+        link: 'https://vue-port-theta.vercel.app/'
+    },
+    {
+        title: 'next',
+        desc: '리액트와 JSON을 활용해 만든 커피 메뉴 사이트입니다.',
         link: 'https://coffeemenu-eight.vercel.app/'
     }
 ]
