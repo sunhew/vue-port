@@ -41,7 +41,7 @@ export default {
                     end: '+=3000',
                     pin: true,
                     scrub: 1,
-                    markers: true,
+                    markers: false,
                     invalidateOnRefresh: true,
                     anticipatePin: 1
                 }
@@ -86,7 +86,7 @@ export default {
 
         .port__item {
             width: 500px;
-            height: 70vh;
+            height: 80vh;
             background-color: var(--subBg100);
             padding: 2.5rem;
             margin-right: 20px;
