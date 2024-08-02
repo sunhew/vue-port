@@ -64,27 +64,6 @@ export const siteText = [
         code: 'https://github.com/sunhew/port',
         view: 'https://sunhew.github.io/port/',
         info: ['site coding', 'production period : two days', 'use stack : HTML5/CSS3, GSAP']
-    },
-    {
-        text: ['make', 'site compliant with', 'Roha'],
-        title: '리액트와 API를 활용한 사이트 제작',
-        code: 'https://github.com/sunhew/youtubmusic',
-        view: 'https://youtubmusic.vercel.app/',
-        info: ['site coding', 'production period : two days', 'use stack : HTML5/SCSS, React, API']
-    },
-    {
-        text: ['make', 'site compliant with', 'react.js'],
-        title: '리액트를 이용한 사이트 제작',
-        code: 'https://github.com/sunhew/coffeemenu',
-        view: 'https://coffeemenu-eight.vercel.app/',
-        info: ['site coding', 'production period : two days', 'use stack : HTML5/CSS3, CSS Variable, Vite']
-    },
-    {
-        text: ['make', 'site compliant with', 'vue.js'],
-        title: '뷰를 이용한 사이트 제작',
-        code: 'https://github.com/sunhew/vue-port',
-        view: 'https://vue-port-theta.vercel.app/',
-        info: ['site coding', 'production period : two days', 'use stack : HTML5/CSS3, Scss Variable, vue']
     }
 ]
 
