@@ -177,8 +177,8 @@ export const contactText = [
         title: 'KAKAO : Roha'
     },
     {
-        link: 'mailto:gsim12@naver.com',
-        title: 'mail : gsim12@naver.com'
+        link: 'mailto:leualeum@gmail.com',
+        title: 'mail : leualeum@gmail.com'
     }
 ]
 
