@@ -173,7 +173,7 @@ export const portText = [
 
 export const contactText = [
     {
-        link: 'https://open.kakao.com/o/gM7YLzwf',
+        link: 'https://open.kakao.com/o/s1M4iUEg',
         title: 'KAKAO : Roha'
     },
     {
